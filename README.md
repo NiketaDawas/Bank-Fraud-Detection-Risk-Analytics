@@ -54,13 +54,13 @@ The project contains 3 dashboard pages covering fraud overview, fraud patterns, 
 
 ### Dashboard Page 1
 
-PowerBI/bnk_1.png
-### Dashboard Page 2
+![Dashboard Page 1](PowerBI/bnk_1.png)
+### Dashboard Page 
 
-PowerBI/bnk_2.png
+![Dashboard Page 2](PowerBI/bnk_2.png)
 ### Dashboard Page 3
 
-PowerBI/bnk_3.png
+![Dashboard Page 3](PowerBI/bnk_3.png)
 ## 📈 Key Results
 
 - Total Transactions: 6.36 Million
